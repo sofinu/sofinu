@@ -1,5 +1,5 @@
 ### Hi i am sofia 👋
-i am student studying data scientis
+currently studying data scientis
 <!--
 **sofinu/sofinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

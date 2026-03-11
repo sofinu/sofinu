@@ -35,7 +35,7 @@ and building production-ready AI systems that solve real business problems.
 
 ## 📫 Contact
 
-- 💼 [Upwork Profile](https://www.upwork.com/freelancers/sofinu)
+- 💼 [Upwork Profile]([https://www.upwork.com/freelancers/sofinu](https://www.upwork.com/freelancers/~016a16f9fcb0f9f6da))
 - 📧 Sofnunex1109@gmail.com
 
 ---
